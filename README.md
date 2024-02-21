@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-Bueno chiquis, he borrado el anterior y no sé ni cómo. 
-Editénlo como quieran
 =======
 - 👋 Hi, we are @Soviji13, @Alewuito, @josegb21
 - 👀 I’m interested in myself
